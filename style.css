@@ -92,3 +92,97 @@ nav .navbar {
     align-items: center;
   }
   
+  .about-pic {
+    background-color: white;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 0px;
+  }
+  #about-us .content {
+    padding: 65px 50px 85px;
+    width: 100%;
+    background-color: white;
+    float: right;
+    text-align: justify;
+    overflow-x: hidden;
+  }
+  .d-flex {
+    display: flex !important;
+  }
+  .arrow {
+    position: relative;
+    left: 50%;
+    top: 90%;
+    margin-left: -20px;
+  }
+  .bounce {
+    animation: bounce 2s infinite;
+  }
+  
+  @keyframes bounce {
+    0%,
+    20%,
+    50%,
+    80%,
+    100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-35px);
+    }
+    60% {
+      transform: translateY(-20px);
+    }
+  }
+  .order h2 {
+    text-align: center;
+  }
+  #variety {
+    padding-top: 30px;
+  }
+  .order {
+    background-attachment: fixed;
+    background-image: url(pictures/background.webp);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+  .order-overlay {
+    background-color: rgba(0, 0, 0, 0.8);
+    margin-left: 2%;
+    margin-right: 2%;
+    padding-bottom: 20px;
+    padding-left: 6%;
+  }
+  .choise {
+    display: none;
+    padding-left: 2%;
+    padding-right: 2%;
+  }
+  .deliver {
+    display: none;
+  }
+  .delivery {
+    display: none;
+    padding-left: 10%;
+    padding-right: 10%;
+  }
+  td,
+  th {
+    font-size: 20px;
+    color: white;
+  }
+  .choise h2 {
+    color: white;
+    text-align: left;
+  }
+  #your-orders {
+    color: white;
+    font-size: 30px;
+  }
+  
+  
