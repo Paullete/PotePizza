@@ -58,3 +58,37 @@ nav .navbar {
   position: relative;
   overflow-x: hidden;
 }
+.text a {
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    background-color: black;
+  }
+  .text h5 {
+    font-size: 25px;
+    padding: 30px;
+    color: white;
+  }
+  .button {
+    border-radius: 10px;
+  }
+  .card-title {
+    text-align: center;
+    color: crimson;
+    font-weight: 800;
+  }
+  .controls-top h2 {
+    color: rgb(220, 53, 69);
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-weight: bolder;
+  }
+  .col-md-4 {
+    border-radius: 10%;
+    padding: 10px;
+  }
+  #about-us {
+    min-height: 30vh;
+    align-items: center;
+  }
+  
