@@ -1,12 +1,12 @@
 # Chez Pote Pizza
-Week 3 independent project
+Week 4 independent project
 
 # Author
 Paullete Adhiambo
 
 ## Table of Content
 
-+ [Chez Pote](#delani-studio)
++ [Chez Pote](#Chez-Pote-Pizza)
 + [Description](#Description)
 + [BDD](#BDD)
 + [Installation Requirements](#Installation)
@@ -16,15 +16,15 @@ Paullete Adhiambo
 + [Author's Info](#author-Info)
 
 ## Description
-This website replicates a given design about delani studio and attempts to implement javascript features and layout stylings given.
+This website is a pizza ordering site implementing JavaScript, Bootstrap and HTML.
 
 ## BDD
 - The user should:
-- Enter Name
-- Enter their email address
-- Type a message feedback
+- Click the order button
+- Enter their pizza preference
+- Enter their desired delivery mode
 - Submit
-- A pop will show thanking the user for the feedback
+- A pop will show notifying the user their order will be delivered 
 
 ### Installation Process
 
@@ -42,7 +42,7 @@ This website replicates a given design about delani studio and attempts to imple
 
 * JQUERY 
 
-* MAILCHIMP 
+
 
 ## Live Link
 
@@ -58,12 +58,8 @@ https://paullete.github.io/Week3IP/
 
 * Web Development Fundamentals w3Schools
 
-## Licence
-
-This software is licensed with the MIT license
-
 ## Authors Info
 paulettenereah3@gmail.com or paullete.adhiambo@moringastudent.com
 
 
-[Go Back to the top](#delani-studio)
+[Go Back to the top](#Chez Pote Pizza)
