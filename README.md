@@ -12,7 +12,6 @@ Paullete Adhiambo
 + [Installation Requirements](#Installation)
 + [Languages and Frameworks used](#Languages-used)
 + [Reference](#reference)
-+ [Licence](#licence)
 + [Author's Info](#author-Info)
 
 ## Description
@@ -47,7 +46,7 @@ This website is a pizza ordering site implementing JavaScript, Bootstrap and HTM
 ## Live Link
 
 You can preview the live working version here
-https://paullete.github.io/Week3IP/
+https://paullete.github.io/PotePizza/
 
 ## Reference
 * Materialize CSS
@@ -62,4 +61,4 @@ https://paullete.github.io/Week3IP/
 paulettenereah3@gmail.com or paullete.adhiambo@moringastudent.com
 
 
-[Go Back to the top](#Chez Pote Pizza)
+
